@@ -4,6 +4,7 @@ A log of training, courses and other learning materials.
 ## Agile and DevOps
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
+| DevOps Antipatterns | LinkedIn | ✅ |
 | DevOps Professional Certificate by PagerDuty and LinkedIn | LinkedIn | ✅ |
 
 ## AI and Machine Learning
