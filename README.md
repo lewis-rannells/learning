@@ -11,3 +11,8 @@ A log of training, courses and other learning materials.
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
 | Getting Started with AI and Machine Learning | LinkedIn | ⬜ |
+
+## Maths ##
+| Course | Provider | Progress |
+| ----- | ----- | ----- |
+| Arithmetic | KhanAcademy | ⬜ |
