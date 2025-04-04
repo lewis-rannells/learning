@@ -12,6 +12,11 @@ A log of training, courses and other learning materials.
 | ----- | ----- | ----- |
 | Getting Started with AI and Machine Learning | LinkedIn | ⬜ |
 
+## Python 
+| Course | Provider | Progress |
+| ----- | ----- | ----- |
+| Python 3 Fundamentals  | PluralSight | ⬜ |
+
 ## Maths ##
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
