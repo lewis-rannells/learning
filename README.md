@@ -16,7 +16,8 @@ A log of training, courses and other learning materials.
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
 | Python 3 The Big Picture  | PluralSight | ✅ |
-| Python 3 Fundamentals  | PluralSight | ⬜ |
+| Python 3 Fundamentals  | PluralSight | ✅ |
+| Guided: Python Basics and Data Structures | PluralSight | ⬜ |
 
 ## Maths ##
 | Course | Provider | Progress |
