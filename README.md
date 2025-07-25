@@ -15,7 +15,7 @@ A log of training, courses and other learning materials.
 | Foundations of PyTorch | PluralSight | ⬜ |
 | Building Machine Learning Models in Python with scikit-learn | PluralSight | ⬜ |
 
-## Maths ##
+## Science ##
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
-| Arithmetic | KhanAcademy | ⬜ |
+| Oceanography: a key to better understand our world | Coursera | ⬜ |
