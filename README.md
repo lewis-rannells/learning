@@ -15,7 +15,8 @@ A log of training, courses and other learning materials.
 | Foundations of PyTorch | PluralSight | ⬜ |
 | Building Machine Learning Models in Python with scikit-learn | PluralSight | ⬜ |
 
-## Science ##
+## Geographic Information Systems ##
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
-| Oceanography: a key to better understand our world | Coursera | ⬜ |
+| Foundations of Grographic Information Systems | LinkedIn Learning | ⬜ |
+| ArcGIS Pro Essential Training | LinkedIn Learning | ⬜ |
