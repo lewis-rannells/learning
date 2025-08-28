@@ -18,5 +18,5 @@ A log of training, courses and other learning materials.
 ## Geographic Information Systems ##
 | Course | Provider | Progress |
 | ----- | ----- | ----- |
-| Foundations of Grographic Information Systems | LinkedIn Learning | ⬜ |
+| Foundations of Grographic Information Systems | LinkedIn Learning | ✅ |
 | ArcGIS Pro Essential Training | LinkedIn Learning | ⬜ |
